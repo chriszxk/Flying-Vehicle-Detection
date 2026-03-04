@@ -11,5 +11,5 @@ If you use this dataset in your research, please cite our paper.
   title = {Flying vehicle detection under complex conditions with RGB-infrared imagery: A large-scale open-source suite and benchmark approach},
   journal = {IEEE Transactions on Intelligent Transportation Systems},
   year = {2026},
-  note = {in press}
+  publisher={IEEE}
 }
